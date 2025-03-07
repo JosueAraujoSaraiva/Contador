@@ -86,7 +86,6 @@ function resetar(){
     console.log(valor)
 }
 
-
 ```
 
 ## 🎨 Melhorias Futuras
