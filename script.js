@@ -1,11 +1,11 @@
 let valor = 0
-
+//
 function contador(){
     const resultado = document.getElementById("valor")
 
     valor = valor +1
 
-    resultado.textContent = valor
+    resultado.textContent = valor 
 
     console.log(resultado)
 }
